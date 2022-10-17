@@ -1,0 +1,20 @@
+{
+    "name": "yogabagas/laradable",
+    "description": "Laravel datatable powerfull",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Yogabagas\\Laradable\\": "src/"
+        },
+        "files": [
+            "helpers/general.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "yogastama",
+            "email": "yogabagas69@gmail.com"
+        }
+    ],
+    "require": {}
+}
